@@ -7,7 +7,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Quieres ser mi san valetin? 💞 🌹",
+    pageTitle: "Quieres ser mi san valentin? 💞 🌹",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -23,7 +23,7 @@ const CONFIG = {
             text: "Te gustan mis peos?",                                    // First interaction
             yesBtn: "Si",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "No me gustas, me encantan y tambien con patas hediondas. "           // Secret hover message
+            secretAnswer: "No me gustan,me encantan y tambien tu.❣️ "           // Secret hover message
         },
         second: {
             text: "Cuanto me amas?",                          // For the love meter
