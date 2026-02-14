@@ -48,7 +48,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "JEJEJE, Soy la persona mas afortunada de tenerte :D:D🤍🤍",
-        message: "No puedo darte un regalo precensial pero tu sabes que hago lo que puedo, Perdon por lo poco, y tambien por no contestar, estaba haciendo esto lo lamento. era una sorpresa 🤍",
+        message: "No puedo darte un regalo presencial pero tu sabes que hago lo que puedo, Perdon por lo poco, y tambien por no contestar, estaba haciendo esto lo lamento. era una sorpresa 🤍",
         emojis: "🌹🤍❤️‍🔥"  // These will bounce around
     },
 
